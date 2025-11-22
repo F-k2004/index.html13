@@ -2,7 +2,7 @@
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
-  <itle>🎨 تولیدگر رنگ تصادفی</title>
+  <title>🎨 تولیدگر رنگ تصادفی</title>
   <style>
     body {
       margin: 0;
